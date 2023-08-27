@@ -2,6 +2,6 @@
 User Name: user <br>
 password: password <br>
 <br>
-It is a complete CRUD operation using raw PHP. Using the provided username and password, you will be able to insert and edit information and delete existing data. <be>
+It is a complete CRUD operation using raw PHP. Using the provided username and password, you will be able to insert and edit information and delete existing data. <br>
 <br>
 <b>The database file named "php1.sql" is included.</b>
